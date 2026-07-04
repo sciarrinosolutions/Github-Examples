@@ -185,6 +185,8 @@ git status
 
 ## Gitconfig file
 
+https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration
+
 The gitconfig file is what stores your global configurations for git such as email, name, editor and more.
 
 Showing the contnets of our .gitconfig file
